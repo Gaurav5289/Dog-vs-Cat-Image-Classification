@@ -1,5 +1,5 @@
 # 🐱🐶 Cat vs Dog Classification Project
-🎯 # Objectives
+## 🎯 Objectives
 Classify images of cats and dogs using transfer learning.
 
 Use MobileNetV2 from TensorFlow Hub as a feature extractor.
@@ -16,7 +16,7 @@ OpenCV: Image resizing and preprocessing.
 Kaggle API: Dataset access and automation.
 
 # 🌟 Key Features
-🧹 ## Data Preprocessing
+## 🧹 Data Preprocessing
 Used 2,000 labeled images from Kaggle's Dogs vs Cats dataset.
 
 Resized all images to 224×224 RGB format.
